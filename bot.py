@@ -1,6 +1,3 @@
-import sys
-sys.modules['telegram.ext._updater'] = None
-
 """
 Telegram Advertising Manager Bot
 - Supports text, photo, video (max 5 sec), and GIF ads.
