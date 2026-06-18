@@ -1,6 +1,0 @@
-python-telegram-bot
-aiosqlite
-apscheduler
-python-dotenv
-starlette
-uvicorn
